@@ -1,0 +1,10 @@
+.env
+data/*.csv
+output/_staging/
+output/runs/
+output/latest_run.json
+logs/*
+!logs/.gitkeep
+.venv/
+__pycache__/
+*.pyc
